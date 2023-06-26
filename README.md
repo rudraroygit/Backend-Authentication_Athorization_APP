@@ -36,7 +36,6 @@ Contributions are welcome! If you find any issues or want to enhance the project
 License
 This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
 
-Contact
-For any questions or inquiries, please contact [Project Owner Name] at [contact-email].
 
-Thank you for using our authentication system with MongoDB and Express! We hope it serves as a reliable foundation for your Node.js application.
+
+Thank you for using  authentication system with MongoDB and Express! We hope it serves as a reliable foundation for your Node.js application.
